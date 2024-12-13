@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-This is a personal webpage under construction. Current info does not represent me.
+This is a personal webpage under construction. Current info is not about me.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Complexity theory:** Time bounded Kolmogorov Complexity, Meta-complexity
+- **Graph Theory:** Structural, minors
+- **Recursion theory:** Algorithmic Randomness
 
 ## News
 
