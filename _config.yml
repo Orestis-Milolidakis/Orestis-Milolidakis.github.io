@@ -1,22 +1,22 @@
 # Basic Information 
 title: Orestis Milolidakis
 position: Master's Student
-affiliation: National Technical University of Athens Algorithms & National Kapodistrian University of Athens. Algorithms, Logic, Discrete MAthematics master's program (alma.di.uoa.gr)
+affiliation: National Technical University of Athens & National Kapodistrian University of Athens. Algorithms, Logic, Discrete MAthematics master's program (alma.di.uoa.gr)
 email: milolid@di.uoa.gr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: PhD student, Masters student, graph theory, structural graph theory, minors, computational complexity, complexity theory, meta-complexity, recursion theory, computability, algorithmic randomness, Kolmogorov complexity, 
+description: A bunch of interests of mine.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+# google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+# github_link: https://github.com/
+# linkedin: https://www.linkedin.com/
+# twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
