@@ -4,10 +4,11 @@ layout: homepage
 
 ## About Me
 
-This is a personal webpage under construction. Current info is not about me.
+This is a personal webpage under construction. Current info is not representative.
 
-## Research Interests
+## Directions of Interest
 
+- **Applications of pure math to theoretical computer science**
 - **Complexity theory:** Time bounded Kolmogorov Complexity, Meta-complexity
 - **Graph Theory:** Structural, minors
 - **Recursion theory:** Algorithmic Randomness
