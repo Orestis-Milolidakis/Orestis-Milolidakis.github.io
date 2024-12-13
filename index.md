@@ -8,7 +8,7 @@ This is a personal webpage under construction. Current info is not representativ
 
 ## Directions of Interest
 
-- **Applications of pure math to theoretical computer science**
+- **Applications of pure math to theoretical computer science:** kk
 - **Complexity theory:** Time bounded Kolmogorov Complexity, Meta-complexity
 - **Graph Theory:** Structural, Probabilistic
 - **Recursion theory:** Algorithmic Randomness
