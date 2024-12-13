@@ -10,7 +10,7 @@ This is a personal webpage under construction. Current info is not representativ
 
 - **Applications of pure math to theoretical computer science**
 - **Complexity theory:** Time bounded Kolmogorov Complexity, Meta-complexity
-- **Graph Theory:** Structural, minors
+- **Graph Theory:** Structural, Probabilistic
 - **Recursion theory:** Algorithmic Randomness
 
 ## News
