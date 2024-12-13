@@ -4,13 +4,12 @@ layout: homepage
 
 ## About Me
 
-This is a personal webpage under construction. Current info is not about me.
+I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Complexity theory:** Time bounded Kolmogorov Complexity, Meta-complexity
-- **Graph Theory:** Structural, minors
-- **Recursion theory:** Algorithmic Randomness
+- **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
 
