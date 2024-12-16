@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-This website is under construction. Current info is misleading. Please check back soon!
+This website is under construction. Current info is misleading. Sample texts by me and video representations to be added. Please check back soon! 
 
 ## Research Interests
 
