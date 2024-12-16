@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+This website is under construction. Current info is misleading. Please check back soon!
 
 ## Research Interests
 
