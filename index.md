@@ -28,5 +28,11 @@ Here is a video presentation. Parts [1](https://www.youtube.com/watch?v=0b9jxNKC
 ### Undergraduate thesis
 Here is an [overview of single source unsplittable](https://github.com/Orestis-Milolidakis/Bachelor-Thesis
 ) flows in graph theory. For Greek lovers.
+
 ### Presentations
-#### f
+Here are a few slides I made for class presentations during my studies.
+
+https://github.com/Orestis-Milolidakis/Presentation-Slides/tree/main
+
+
+
