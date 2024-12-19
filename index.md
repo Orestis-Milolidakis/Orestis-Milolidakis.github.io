@@ -30,7 +30,7 @@ I presented my thesis on the [Noon Seminar](https://www.mff.cuni.cz/en/kam/teach
 
 ### Undergraduate thesis
 Here is an [overview of single source unsplittable](https://github.com/Orestis-Milolidakis/Bachelor-Thesis
-) flows in graph theory. For Greek lovers.
+) flows in graph theory, advised by Stavros Kolliopoulos. For Greek lovers.
 
 ### Presentations
 Here are [a few slides](https://github.com/Orestis-Milolidakis/Presentation-Slides/tree/main
