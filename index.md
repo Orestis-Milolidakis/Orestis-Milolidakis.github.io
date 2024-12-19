@@ -6,10 +6,12 @@ layout: homepage
 
 This website is under construction. Current info is misleading. Sample texts by me and video representations to be added. Please check back soon! 
 
-## Research Interests
+## Directions of interest
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Applications of pure math to theoritical computer science** 
+- **Computational Complexity:** Time bounded Kolmogorov Complexity, Meta-complexity
+- **Graph Theory:** Structural, Probabilistic
+- **Recursion theory:** Algorithmic Randmoness
 
 ## News
 
