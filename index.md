@@ -14,7 +14,7 @@ Hello! I am a master's student in Greece in the program "Algorithms, Logic, Disc
 - **Recursion theory:** Algorithmic Randmoness
 
 ## Material
-Here are some material I have worked on.
+Here are some materials I have worked on.
 ### [Paper] Maximum degree in minor-closed clases.
 Every planar graph is a minor of a planar graph of maximum degree 3. What if we replaced "planar" with another minor-closed class? 
 
