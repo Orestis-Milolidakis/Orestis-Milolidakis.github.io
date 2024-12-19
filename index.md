@@ -26,7 +26,7 @@ Here is my more extensive [master's thesis](https://github.com/Orestis-Milolidak
 
 Here is a video presentation. Parts [1](https://www.youtube.com/watch?v=0b9jxNKCgKs&t=180s) and [2](https://www.youtube.com/watch?v=W5fkjAzQ8ts).
 
-I presented my thesis on the [Noon Seminar](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures) of Charles-Prague.
+I presented my thesis on the [Noon Seminar](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures) of Charles-Prague University.
 
 ### Undergraduate thesis
 Here is an [overview of single source unsplittable](https://github.com/Orestis-Milolidakis/Bachelor-Thesis
