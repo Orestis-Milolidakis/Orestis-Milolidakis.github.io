@@ -33,9 +33,9 @@ Here is an [overview of single source unsplittable](https://github.com/Orestis-M
 ) flows in graph theory. For Greek lovers.
 
 ### Presentations
-Here are a few slides I made for class presentations during my studies.
+Here are [a few slides](https://github.com/Orestis-Milolidakis/Presentation-Slides/tree/main
+) I made for class presentations during my studies.
 
-https://github.com/Orestis-Milolidakis/Presentation-Slides/tree/main
 
 
 
