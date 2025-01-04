@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a master's student in Greece in the program "Algorithms, Logic, Discrete MAthematics" (alma.di.uoa.gr). I am broadly interested in the intersection of theoretical computer science and pure math. I am excited to know about deep non-algorithmic theories and their potential applications in CS theory, but here are the fields I have given the most time to, in alphabetic order. This website is under construction. Check back again for more material!
+Hello! I am a PhD student in the computer science department of the National University of Singapore. Before that, I was a master's student in Greece in the program "Algorithms, Logic, Discrete MAthematics" (alma.di.uoa.gr). I am broadly interested in the intersection of theoretical computer science and pure math. I am excited to know about deep non-algorithmic theories and their potential applications in CS theory, but here are the fields I have given the most time to, in alphabetic order. This website is under construction. Check back again for more material!
 
 ## Directions of interest
 
@@ -30,11 +30,11 @@ I presented my thesis on the [Noon Seminar](https://www.mff.cuni.cz/en/kam/teach
 
 ### Undergraduate thesis
 Here is an [overview of single source unsplittable](https://github.com/Orestis-Milolidakis/Bachelor-Thesis
-) flows in graph theory, advised by Stavros Kolliopoulos. For Greek lovers.
+) flows in graph theory, advised by professor Stavros Kolliopoulos. For Greek lovers.
 
 ### Presentations
-Here are [a few slides](https://github.com/Orestis-Milolidakis/Presentation-Slides/tree/main
-) I made for class presentations during my studies.
+Here are [slides](https://github.com/Orestis-Milolidakis/Presentation-Slides/tree/main
+) of 5 presentations I made for classes during my studies.
 
 
 
