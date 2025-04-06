@@ -32,7 +32,7 @@ Here is a video presentation. Parts [1](https://www.youtube.com/watch?v=0b9jxNKC
 
 I presented my thesis on the [Noon Seminar](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures/2024) of Charles-Prague University.
 
-Here are the [slides]([https://github.com/Orestis-Milolidakis/Presentation-Slides/blob/main/Masters_thesis_presentation.pdf) I made to present the thesis to my school.
+Here are [slides](https://github.com/Orestis-Milolidakis/Presentation-Slides/blob/main/Masters_thesis_presentation.pdf) I made to present the thesis to my school.
 
 ### Undergraduate thesis
 Here is an [overview of single source unsplittable](https://github.com/Orestis-Milolidakis/Bachelor-Thesis
