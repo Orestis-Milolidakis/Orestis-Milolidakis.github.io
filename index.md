@@ -8,7 +8,7 @@ Hello! I am a PhD student in the computer science department of the National Uni
 
 ## Directions of interest
 
-- **Applications of pure math to theoritical computer science** 
+- **Applications of pure math to theoretical computer science** 
 - **Computational Complexity:** Time bounded Kolmogorov Complexity, Meta-complexity
 - **Graph Theory:** Structural, Probabilistic
 - **Recursion theory:** Algorithmic Randmoness
