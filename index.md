@@ -26,11 +26,12 @@ We are currently writing a paper with professors Agelos Georgakopoulos and David
 Here is my more extensive [master's thesis](https://github.com/Orestis-Milolidakis/Masters-thesis
 ) advised by Agelos, on which the paper is based.
 
-#### [Update]
-
 Here is a video presentation. Parts [1](https://www.youtube.com/watch?v=0b9jxNKCgKs&t=180s) and [2](https://www.youtube.com/watch?v=W5fkjAzQ8ts).
 
 I presented my thesis on the [Noon Seminar](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures/2024) of Charles-Prague University.
+
+#### [Update]
+[Presentation slides]([https://github.com/Orestis-Milolidakis/Presentation-Slides/blob/main/Masters_thesis_presentation.pdf)
 
 ### Undergraduate thesis
 Here is an [overview of single source unsplittable](https://github.com/Orestis-Milolidakis/Bachelor-Thesis
