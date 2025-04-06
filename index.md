@@ -15,14 +15,18 @@ Hello! I am a PhD student in the computer science department of the National Uni
 
 ## Material
 Here are some materials I have worked on.
+
 ### [Paper] Maximum degree in minor-closed clases.
 Every planar graph is a minor of a planar graph of maximum degree 3. What if we replaced "planar" with another minor-closed class? 
 
 We are currently writing a paper with professors Agelos Georgakopoulos and David Wood. Presently, we are making the otherwise complete text easier to read. [Take a look](https://github.com/Orestis-Milolidakis/Maximum-Degree-Of-Minor-Closed-Classes) at a version of our work from the end of November!
 
 ### Master's thesis
+
 Here is my more extensive [master's thesis](https://github.com/Orestis-Milolidakis/Masters-thesis
 ) advised by Agelos, on which the paper is based.
+
+#### [Update]
 
 Here is a video presentation. Parts [1](https://www.youtube.com/watch?v=0b9jxNKCgKs&t=180s) and [2](https://www.youtube.com/watch?v=W5fkjAzQ8ts).
 
