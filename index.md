@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a PhD student in the computer science department of the National University of Singapore. Before that, I was a master's student in Greece in the program "Algorithms, Logic, Discrete MAthematics" (alma.di.uoa.gr). I am broadly interested in the intersection of theoretical computer science and pure math. I am excited to know about deep non-algorithmic theories and their potential applications in CS theory, but here are the fields I have given the most time to, in alphabetic order. 
-
-I am presently focused on my PhD studies, but I add a few updates when time permits.
+I am a PhD student in the computer science department of the National University of Singapore. Before that, I was a master's student in Greece in the program "Algorithms, Logic, Discrete MAthematics" (alma.di.uoa.gr). I am broadly interested in the intersection of theoretical computer science and pure math. I am excited to know about deep non-algorithmic theories and their potential applications in CS theory, but here are the fields I have given the most time to, in alphabetic order. 
 
 ## Directions of interest
 
@@ -16,7 +14,7 @@ I am presently focused on my PhD studies, but I add a few updates when time perm
 - **Recursion theory:** Algorithmic Randmoness
 
 ## Material
-Here are some materials I have worked on.
+Here are some materials I have worked on. I am presently focused on my PhD studies, but I add a few updates when time permits.
 
 ### [Paper] Maximum degree in minor-closed clases.
 Every planar graph is a minor of a planar graph of maximum degree 3. What if we replaced "planar" with another minor-closed class? 
