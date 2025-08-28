@@ -23,7 +23,7 @@ We have written a paper with professors Agelos Georgakopoulos and David Wood. Pr
 
 ### Master's thesis
 
-Here is my more extensive [master's thesis](https://github.com/Orestis-Milolidakis/Masters-thesis
+[NEW] Here is the official text of my master's thesis [master's thesis]([https://github.com/Orestis-Milolidakis/Masters-thesis](https://github.com/Orestis-Milolidakis/Masters-thesis/blob/main/Master's%20thesis%20official.pdf)
 ) advised by Agelos, on which the paper is based.
 
 Here is a video presentation. Parts [1](https://www.youtube.com/watch?v=0b9jxNKCgKs&t=180s) and [2](https://www.youtube.com/watch?v=W5fkjAzQ8ts).
